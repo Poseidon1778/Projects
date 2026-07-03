@@ -1,3 +1,4 @@
+# A simple implementation of the FizzBuzz game with a twist. This version includes an additional rule where if a number contains the digit '3', it outputs "Almost Fizz" instead of the number itself.
 '''
 FizzBuzz is a simple and classic programming game often used to teach basic logic and control flow. The game involves iterating through numbers from 1 up to a specified limit. For each number:
 
