@@ -1,3 +1,4 @@
+# Bill Splitter Script
 # Bill Split Calculator
 
 print("--- Bill Split Calculator ---")
